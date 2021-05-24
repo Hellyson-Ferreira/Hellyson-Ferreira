@@ -20,14 +20,6 @@
 
 
 <code>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellyson-Ferreira&theme=light&hide_langs_below=1" />
-
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=Hellyson-Ferreira&show_icons=true" />
-</code>
-
-
-
 <!--
 **Hellyson-Ferreira/Hellyson-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
